@@ -30,12 +30,21 @@ Work : https://github.com/6110613103/anim63b/blob/master/homework7%20JR%20MEOW.b
        
        
 ### Project
+Project Video : Youtube https://youtu.be/ddzB-mzu7LM
+
 Blender - Night Sky https://github.com/6110613103/anim63b/blob/master/Night%20Sky.blend
           Night Sky With BT and Slime https://github.com/6110613103/anim63b/blob/master/Night%20Sky%20and%20Spoonz.blend
           Slime and BT https://github.com/6110613103/anim63b/blob/master/Slime_BT_Spoonz.blend
           
 #### My Characters by Spoonz
 #### BT
-![alt text](https://github.com/6110613103/anim63b/blob/master/Dn3pTy7U8AAY6zj.jpg?raw=true)
+![alt text](https://github.com/6110613103/anim63b/blob/master/BT.jpg?raw=true)
 
 #### Slime
+![alt text](https://github.com/6110613103/anim63b/blob/master/Slime.jpg?raw=true)
+
+### Ping, Cindy and Diabol
+![alt text](https://github.com/6110613103/anim63b/blob/master/Ping.jpg?raw=true)
+![alt text](https://github.com/6110613103/anim63b/blob/master/Cindy.jpg?raw=true)
+![alt text](https://github.com/6110613103/anim63b/blob/master/Diabol.jpg?raw=true)
+
